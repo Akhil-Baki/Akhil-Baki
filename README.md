@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Cool Animation]([https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFhZHhlMGdnb3VremZ2Yzg0Z3IycXBqMWRzMnU2eHJmZ25wa3V6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oktW1eBGpHOoM/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZzdWIwdzRxeWx5bDk3aGtjaHdxenNybmt1ZzdvZWtmajl1aWFhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTQr3cdC1bXWi4/giphy.gif))
+![Cool Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFhZHhlMGdnb3VremZ2Yzg0Z3IycXBqMWRzMnU2eHJmZ25wa3V6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oktW1eBGpHOoM/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZzdWIwdzRxeWx5bDk3aGtjaHdxenNybmt1ZzdvZWtmajl1aWFhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTQr3cdC1bXWi4/giphy.gif))
 <!--
 **Akhil-Baki/Akhil-Baki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
